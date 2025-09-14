@@ -300,7 +300,7 @@ left_decoration_y = decoration_y
 img.paste(squad_decoration, (left_decoration_x, left_decoration_y), squad_decoration)
 
 #Add some lines for decoration
-num_leaves = 24
+num_leaves = 48
 leaf_length = 70
 leaf_width = 25
 
