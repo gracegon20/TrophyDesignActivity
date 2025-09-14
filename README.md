@@ -1,5 +1,4 @@
 This project generates a custom trophy certificate image using Python (PIL/Pillow).
-
 Features & Design Elements
     Circular Trophy Base
         A golden-brown rectangular base with bold title text (INTRAMURALS 2025).
