@@ -1,4 +1,4 @@
-This project generates a custom trophy certificate image using Python (PIL/Pillow). Circular Trophy Base - A golden-brown rectangular base with bold title text (INTRAMURALS 2025). Outlined with dark borders for depth.
+This project generates a custom digital trophy using Python (PIL/Pillow). Circular Trophy Base - A golden-brown rectangular base with bold title text (INTRAMURALS 2025). Outlined with dark borders for depth.
 Ellipse Structure - A large golden ellipse representing the body of the trophy. Filled with a soft cream background (#FFF8DC).
 Small Rectangle (Plaque) - Positioned above the base with the text:“BISU - BALILIHAN CAMPUS”. Text automatically resizes to fit within the plaque.
 Trapezoid & Polygon Decorations - Golden trapezoids serve as connectors between sections of the trophy. Adds symmetry and structured layering.
